@@ -9,7 +9,7 @@
     {
     	public static void main (String[] args) throws java.lang.Exception
     	{
-    		        Scanner myScanner = new Scanner(System.in);
+    		Scanner myScanner = new Scanner(System.in);
             int first, second;
             first = myScanner.nextInt();
             second = myScanner.nextInt();
