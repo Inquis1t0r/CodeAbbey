@@ -1,3 +1,3 @@
 # CodeAbbey
-Solutions for CodeAbbey.com problems
+Solutions for CodeAbbey.com problems.
  
